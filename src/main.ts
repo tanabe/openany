@@ -44,7 +44,6 @@ const main = () => {
     }
     let source = args[0];
     let command = buildCommand(source);
-    console.log(command);
     exec(command, (error, stdout, stderr) => {
         if (error) {
             console.log(`error: ${error.message}`);

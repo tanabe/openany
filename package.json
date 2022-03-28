@@ -1,6 +1,7 @@
 {
   "name": "openany",
   "version": "0.0.1",
+  "bin": "./bin/cli",
   "description": "open anything",
   "main": "index.js",
   "license": "MIT",

@@ -2,7 +2,7 @@ import { exec } from 'child_process';
 const args = process.argv.slice(2);
 
 if (args.length != 1) {
-    console.log('usage: anyopen <source>');
+    console.log('usage: openany <source>');
     process.exit(1);
 }
 

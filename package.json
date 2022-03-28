@@ -1,11 +1,8 @@
 {
-  "name": "anyopen",
-  "version": "1.0.0",
-  "description": "extends open command",
+  "name": "openany",
+  "version": "0.0.1",
+  "description": "open anything",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^17.0.23",

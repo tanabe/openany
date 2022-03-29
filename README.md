@@ -2,20 +2,32 @@
 
 Open anything.
 
-# Setup
+## Setup
 
 ```
 $ npm i
 ```
 
-# Run as an executable
+## Run as an executable
 
 ```
 $ npm install -g
-$ which openany
-$ openany .
 ```
 
-# Customize
+## Sample
 
+This sample code may open this project's GitHub repo page in your browser.
 
+```
+$ openany tanabe/openany
+```
+
+## Customize
+
+You can customize src/config.ts to your need.
+
+## Uninstall
+
+```
+$ npm uninstall -g
+```

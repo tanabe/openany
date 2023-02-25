@@ -1,6 +1,6 @@
-# openany
+# What is this
 
-Open anything.
+openany extends open command.
 
 ## Setup
 
@@ -16,7 +16,7 @@ $ npm install -g
 
 ## Sample
 
-This sample code may open this project's GitHub repo page in your browser.
+Sample code below may open GitHub repo page in your default browser.
 
 ```
 $ openany tanabe/openany
